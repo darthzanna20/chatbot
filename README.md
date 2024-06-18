@@ -10,7 +10,7 @@ Kilian McCabe
 -react
 
 ## Backend (dazu in backend folder wechseln)
-pip install -r requirements.txt
+pip install flask flask-cors scikit-learn numpy nltk
 
 python -m nltk.downloader punkt averaged_perceptron_tagger (Nur einmal notwendig)
 
@@ -27,3 +27,6 @@ Datasets are found in python script in backend folder
 
 ## Reflection
 I learned a lot about scripting and machine learning in this module
+
+## Screenshot
+![img.png](img.png)
